@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORMTest.WPF", "ORMTest.WPF\ORMTest.WPF.csproj", "{74760D29-56EA-449B-B23B-09B862E3FA42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74760D29-56EA-449B-B23B-09B862E3FA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74760D29-56EA-449B-B23B-09B862E3FA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74760D29-56EA-449B-B23B-09B862E3FA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74760D29-56EA-449B-B23B-09B862E3FA42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D177E827-FCC4-4B9F-B183-315D6D70BE0A}
+	EndGlobalSection
+EndGlobal
